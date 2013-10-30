@@ -1,6 +1,6 @@
 # health-app
 
-  A simple express subapp for load balancer health checks. Returns `200 OK` for `GET /health`. 
+  An express subapp for simple load balancer health checks. Returns `200 OK` for `GET /health`. 
 
 ## Installation
 
