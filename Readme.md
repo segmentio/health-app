@@ -23,7 +23,7 @@ express()
 
 ### Health()
 
-  Generate an express subapp that serves `200 OK for `GET /health`.
+  Generate an express subapp that serves `200 OK` for `GET /health`.
 
 ## License
 
