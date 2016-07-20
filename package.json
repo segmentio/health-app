@@ -8,7 +8,11 @@
     "express": "^3.4.4"
   },
   "devDependencies": {
-    "supertest": "^0.8.1",
-    "mocha": "^1.13.0"
+    "@segment/eslint-config": "^3.1.1",
+    "eslint": "^2.9.0",
+    "eslint-plugin-mocha": "^2.2.0",
+    "eslint-plugin-require-path-exists": "^1.1.5",
+    "mocha": "^1.13.0",
+    "supertest": "^0.8.1"
   }
 }
