@@ -1,6 +1,6 @@
 {
   "name": "health-app",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "(Mountable) Express app for health checks.",
   "main": "lib/index.js",
   "scripts": {

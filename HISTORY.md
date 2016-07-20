@@ -1,4 +1,4 @@
-vNEXT / 2016-07-19
+1.0.0 / 2016-07-19
 ==================
 
   * Pin dependencies less strictly to allow shrinkwrapping
