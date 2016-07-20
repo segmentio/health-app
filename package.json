@@ -2,13 +2,13 @@
   "name": "health-app",
   "version": "0.0.1",
   "repository": "https://github.com/segmentio/health-app.git",
-  "author": "friends@segment.io",
+  "author": "Segment <friends@segment.com>",
+  "main": "lib/index.js",
   "dependencies": {
-    "express": "~3.4.4"
+    "express": "^3.4.4"
   },
   "devDependencies": {
-    "supertest": "~0.8.1",
-    "mocha": "~1.13.0"
-  },
-  "main": "lib/index.js"
+    "supertest": "^0.8.1",
+    "mocha": "^1.13.0"
+  }
 }
