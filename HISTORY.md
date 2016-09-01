@@ -1,3 +1,8 @@
+1.1.0 / 2016-09-01
+==================
+
+  * Pin express dep less restrictively to allow use with express 4 (#2)
+
 1.0.1 / 2016-07-19
 ==================
 
